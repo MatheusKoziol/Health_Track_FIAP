@@ -1,0 +1,41 @@
+*{
+    background-color: lightgray;
+    min-height: 100%;
+}
+
+body{
+    height: 100%;
+
+}
+
+.container-fluid{
+    height: 100%;
+}
+  
+.row {
+    margin-bottom: 20px;
+}
+
+#fintech{
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.links{
+    text-decoration: underline;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.backIcon{
+    font-size: 2rem;
+}
+ 
+.googleLogin{
+    font-size: 1rem;
+}
